@@ -1,0 +1,13 @@
+    {
+    "name": "abz/gcm",
+    "description": "Send Gcm notification",
+    "type": "library",
+    "license": "GPLv3",
+    "authors": [
+        {
+            "name": "Abhijit Kumar",
+            "email": "abhijit.stack@gmail.com"
+        }
+    ],
+    "require": {}
+}
